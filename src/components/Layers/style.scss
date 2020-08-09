@@ -1,0 +1,14 @@
+.list-item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.swatch {
+  position: relative;
+  padding: 5px;
+  border-radius: "1px";
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, .1);
+  display: inline-block;
+  cursor: pointer;
+}
